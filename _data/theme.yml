@@ -7,16 +7,16 @@ title: Rufus the Dog
 metadata: rufusthedog # check against cdm-collection-id below -- this should be used in config file as well
 
 # repository is the github repository's full url
-repository: https://github.com/CollectionBuilder/collectionbuilder-gh
+repository: https://github.com/dcnb/rufus-the-dog
 
 # header and head metadata
 # tagline appears in banner
 tagline: Rufus, the dog
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Rufs is a dog in Collection-GH which is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Rufus is a dog in Collection-GH which is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
 # keywords appear in meta tags
-keywords: "university of idaho, digital collections, digital humanities"
+keywords: "dogs;cute;fire;"
 # creator of the digital collection, to appear in meta tags
 author: dcnb
 
