@@ -84,5 +84,5 @@ navbar-color: navbar-dark
 navbar-background: bg-dark
 # theme with Bootswatch (https://github.com/thomaspark/bootswatch)
 # Choose from: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: # leave blank or comment out for plain bootstrap
+bootswatch: minty # leave blank or comment out for plain bootstrap
 
