@@ -2,28 +2,28 @@
 
 # Site settings
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Rufus the Dog 
 # choose metadata, be sure to also change page_gen data setting!
-metadata: collection-metadata # check against cdm-collection-id below -- this should be used in config file as well
+metadata: rufusthedog # check against cdm-collection-id below -- this should be used in config file as well
 
 # repository is the github repository's full url
 repository: https://github.com/CollectionBuilder/collectionbuilder-gh
 
 # header and head metadata
 # tagline appears in banner
-tagline: a template for creating simple digital exhibits
+tagline: Rufus, the dog
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Rufs is a dog in Collection-GH which is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
 # keywords appear in meta tags
 keywords: "university of idaho, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags
-author: evanwill
+author: dcnb
 
 
 # Home page
 # give full filename including folder
-home-banner-image: "objects/test011.jpg"
+home-banner-image: "objects/IMG_20181230_115926.jpg"
 home-banner-image-link:  # leave blank unless no cdm number to generate item
 # give title of the image for accessibility
 home-banner-image-title: Snowstorm Concentrator, Troy, Montana. No. 6. # for accessibility 
