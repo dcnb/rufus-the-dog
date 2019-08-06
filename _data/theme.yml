@@ -4,7 +4,7 @@
 # title of site appears in banner
 title: Rufus the Dog 
 # choose metadata, be sure to also change page_gen data setting!
-metadata: rufusthedog # check against cdm-collection-id below -- this should be used in config file as well
+metadata: pnla-metadata # check against cdm-collection-id below -- this should be used in config file as well
 
 # repository is the github repository's full url
 repository: https://github.com/dcnb/rufus-the-dog
@@ -23,10 +23,10 @@ author: dcnb
 
 # Home page
 # give full filename including folder
-home-banner-image: "objects/IMG_20181230_115926.jpg"
+home-banner-image: "objects/nwpostcards_335.jpg"
 home-banner-image-link:  # leave blank unless no cdm number to generate item
 # give title of the image for accessibility
-home-banner-image-title: Rufus with Wallace # for accessibility 
+home-banner-image-title: Ketchum, Idaho, winter evening # for accessibility 
 # optional: add extra padding around title for larger image feature
 home-title-y-padding: 10em # the margin from the top your title portion will appear
 carousel-height: 500 # in px, but don't include the "px"; default is 300.
@@ -36,7 +36,7 @@ featured-subjects-max: 4 # set number of top subjects to display if auto generat
 # add top locations, for list see data/places.csv
 featured-locations: #separate by semi-colon(';') - if left blank, will be automatically generated to create top 5 locations
 featured-locations-max: 3
-mediatypes: images #options[documents,images,video,sound,data] separate semi-colon(';'). If semi-colon is present, the browse items on the browse page will display a type field. If only one media type (and thus no semi-colon), no type field will display
+mediatypes: images;documents;video;sound #options[documents,images,video,sound,data] separate semi-colon(';'). If semi-colon is present, the browse items on the browse page will display a type field. If only one media type (and thus no semi-colon), no type field will display
 
 # About page
 about-off: true # true / false, if true will not show link to about page on front. Need to erase link in nav-configuration as well. 
